@@ -3,7 +3,7 @@
 Lynx Flow is a streamlined and straightforward library for building method call sequences.
 Simplify your code with clear and concise constructs using Lynx Flow.
 
-![Lynx Flow Logo](logo/lynx-flow.png)
+![Lynx Flow logo](https://github.com/ToghrulMirzayev/lynx-flow/raw/main/logo/lynx-flow.png)
 
 # Getting started
 
