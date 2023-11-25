@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='lynx-flow',
-    version='0.0.1',
+    version='0.0.2',
     author='Toghrul Mirzayev',
     author_email='togrul.mirzoev@gmail.com',
     description='Lynx Flow is a streamlined and straightforward library for building method call sequences. '
