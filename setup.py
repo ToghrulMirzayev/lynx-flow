@@ -5,11 +5,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='lynx-flow',
-    version='0.0.2',
+    version='0.0.3',
     author='Toghrul Mirzayev',
     author_email='togrul.mirzoev@gmail.com',
-    description='Lynx Flow is a streamlined and straightforward library for building method call sequences. '
-                'Simplify your code with clear and concise constructs using Lynx Flow.',
+    description='Lynx Flow is a streamlined and straightforward API requests library for building method call '
+                'sequences. Simplify your code with clear and concise constructs using Lynx Flow.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     classifiers=[
