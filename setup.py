@@ -23,9 +23,8 @@ setup(
         "Topic :: Software Development :: Testing",
     ],
     install_requires=[
-        'selenium>=4.4.3',
-        'webdriver-manager>=3.8.5',
-        'colorama>=0.4.4'
+        'requests',
+        'logstyle'
     ],
     keywords=[
         'testing',
